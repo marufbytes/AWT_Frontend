@@ -16,7 +16,7 @@ export default function Navbar() {
           />
         </div>
         <span className="text-xl font-bold text-gray-900 leading-tight">
-          UniCareer <span className="block text-xs font-normal text-gray-500">Connect</span>
+          InternNova <span className="block text-xs font-normal text-gray-500">Connect</span>
         </span>
       </div>
 
